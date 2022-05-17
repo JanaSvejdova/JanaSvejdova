@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning python and  React.
 - 📫 How to reach me https://www.linkedin.com/in/jana-svejdova-kira/ 
 
-![dio-brando-dio](https://user-images.githubusercontent.com/80160850/168909625-d7afbc4a-1f64-4e8e-949c-9faaf71254b6.gif)
+
+![bobs-burger-tina-belcher](https://user-images.githubusercontent.com/80160850/168910248-351d1300-33c4-45b3-b95b-1b5862aa6027.gif)
